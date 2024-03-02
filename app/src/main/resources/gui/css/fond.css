@@ -1,0 +1,85 @@
+#menu{
+    background-image: url('../fond/fond_menu.png');
+    background-repeat: stretch;   
+    background-size: cover;
+    background-position: center center;
+    -fx-background-image: url('../fond/fond_menu.png');
+    -fx-background-repeat: stretch;   
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+#pokepongArena1 {
+    background-image: url('../fond/pokepongArena1.png');
+    background-repeat: no-repeat;   
+    background-size: 100% 100%;
+    background-position: center center;
+    -fx-background-image: url('../fond/pokepongArena1.png');
+    -fx-background-repeat: no-repeat;   
+    -fx-background-size: 100% 100%;
+    -fx-background-position: center center;
+}
+#pokepongArena2 {
+    background-image: url('../fond/pokepongArena2.png');
+    background-repeat: no-repeat;   
+    background-size: 100% 100%;
+    background-position: center center;
+    -fx-background-image: url('../fond/pokepongArena2.png');
+    -fx-background-repeat: no-repeat;   
+    -fx-background-size: 100% 100%;
+    -fx-background-position: center center;
+}
+#pokepongArena3 {
+    background-image: url('../fond/pokepongArena3.png');
+    background-repeat: no-repeat;   
+    background-size: 100% 100%;
+    background-position: center center;
+    -fx-background-image: url('../fond/pokepongArena3.png');
+    -fx-background-repeat: no-repeat;   
+    -fx-background-size: 100% 100%;
+    -fx-background-position: center center;
+}
+#pokepongArena4 {
+    background-image: url('../fond/pokepongArena4.png');
+    background-repeat: no-repeat;   
+    background-size: 100% 100%;
+    background-position: center center;
+    -fx-background-image: url('../fond/pokepongArena4.png');
+    -fx-background-repeat: no-repeat;   
+    -fx-background-size: 100% 100%;
+    -fx-background-position: center center;
+}
+
+
+#luncher {
+    background-image: url('../fond/fond_luncher.gif');
+    background-repeat: stretch;   
+    background-size: cover;
+    background-position: center center;
+    -fx-background-image: url('../fond/fond_luncher.gif');
+    -fx-background-repeat: stretch;   
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+#settings {
+    background-image: url('../fond/fond_settings.png');
+    background-repeat: stretch;   
+    background-size: cover;
+    background-position: center center;
+    -fx-background-image: url('../fond/fond_settings.png');
+    -fx-background-repeat: stretch;   
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+#rules {
+    background-image: url('../fond/fond_rules.png');
+    background-repeat: stretch;   
+    background-size: cover;
+    background-position: center center;
+    -fx-background-image: url('../fond/fond_rules.png');
+    -fx-background-repeat: stretch;   
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}

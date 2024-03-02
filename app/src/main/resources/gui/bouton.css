@@ -1,0 +1,54 @@
+#start_button {
+    -fx-background-image:url('menu_startgame.png');
+    -fx-background-color: TRANSPARENT;
+    -fx-background-size: cover;
+}
+
+#player1_button {
+    -fx-background-image:url('p1.png');
+    -fx-background-color: TRANSPARENT;
+    -fx-background-size: cover;
+}
+
+#player2_button {
+    -fx-background-image:url('p2.png');
+    -fx-background-color: TRANSPARENT;
+    -fx-background-size: cover;
+}
+
+#select_button {
+    -fx-background-image:url('select.png');
+    -fx-background-color: TRANSPARENT;
+    -fx-background-size: cover;
+}
+
+#exit_button {
+    -fx-background-image:url('exit.png');
+    -fx-background-color: TRANSPARENT;
+    -fx-background-size: cover;
+}
+
+#cadre1_button {
+    -fx-background-image:url('pikachu.png');
+    -fx-background-color: TRANSPARENT;
+    -fx-background-size: cover;
+    -fx-background-radius:130;
+}
+#cadre2_button {
+    -fx-background-image:url('salameche.png');
+    -fx-background-color: TRANSPARENT;
+    -fx-background-size: cover;
+    -fx-background-radius:130;
+}
+#cadre3_button {
+    -fx-background-image:url('bulbizarre.png');
+    -fx-background-color: TRANSPARENT;
+    -fx-background-size: cover;
+    -fx-background-radius:130;
+}
+#cadre4_button {
+    -fx-background-image:url('carapuce.png');
+    -fx-background-color: TRANSPARENT;
+    -fx-background-size: cover;
+    -fx-background-radius:130;
+}

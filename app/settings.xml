@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="Racket1">0</entry>
+<entry key="langageInt">0</entry>
+<entry key="musiques">false</entry>
+<entry key="langage">EN</entry>
+<entry key="sons">false</entry>
+<entry key="Racket2">1</entry>
+<entry key="theme">0</entry>
+</properties>

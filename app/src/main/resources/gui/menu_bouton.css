@@ -1,0 +1,4 @@
+.fond_bouton {
+    -fx-background-image:url('menu_startgame.png');
+    -fx-background-size: cover;
+}
